@@ -1,2 +1,2 @@
 # Notes
-This folder contains study notes, glossary, and practice Q&A from my cybersecurity training.
+This folder contains study notes, glossary of cybersecurity terms, and practice Q&A from my training.
